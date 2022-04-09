@@ -1,6 +1,6 @@
 # Overview
 
-Mattel Electronics created a computer upgrade for their Intellivision gaming console called the Keyboard Component (KC), which itself had a printer available for it.  The **Printer Interface** is the rare adapter that connected that printer to the Keyboard Component.
+Mattel Electronics created a computer upgrade for their Intellivision gaming console called the Keyboard Component (KC), which itself had a printer available for it.  The **_Printer Interface_** is the rare adapter that connected that printer to the Keyboard Component.
 
 This repo contains the following:
 - `KC Printer Interface Schematic.pdf` - Schematic of the electronics in PDF form.  The original KiCad files may be added later.
